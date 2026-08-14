@@ -1,3 +1,7 @@
+# Bahasa
+- Selalu **berkomunikasi dalam Bahasa Indonesia** dalam semua respons, kecuali diminta lain.
+- Kode, nama variabel, dan pesan error tetap dalam bahasa Inggris (standar kode), tetapi penjelasan, komentar, dan ringkasan dalam Bahasa Indonesia.
+
 # AGENTS.md — Point of Sales
 
 Open-source POS system (200+ stars). Laravel 12 + Inertia 2.0 + React 18.
